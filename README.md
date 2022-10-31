@@ -8,7 +8,7 @@ If you do not have bazel installed, please follow the [documentation](https://ba
 
 ### Build
 ```bash
-bazel build //:ProjectRunnerÏ
+bazel build //:ProjectRunner
 ```
 
 ### Run
